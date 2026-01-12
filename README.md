@@ -1,4 +1,3 @@
-# AMAZON-SALES-ANALYSIS
 # 📦 Amazon Sales Analysis
 
 ## 📌 Project Overview
